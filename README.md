@@ -1,6 +1,6 @@
 # Lectures
 
-## Allow scrips:
+## Lecture 003:
 
 ### get policy:
 
