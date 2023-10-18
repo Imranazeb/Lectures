@@ -1,6 +1,6 @@
 # Lectures
 
-## Lecture 003:
+## Lecture 000:
 
 ### get policy:
 
